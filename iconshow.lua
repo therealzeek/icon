@@ -33,7 +33,7 @@ local function createGUI()
     ImageButton.BorderSizePixel = 0
     ImageButton.Position = UDim2.new(0.579999983, 0, 0.680000007, 0)
     ImageButton.Size = UDim2.new(0, 39, 0, 39)
-    ImageButton.Image = "http://www.roblox.com/asset/?id=16599489351"
+    ImageButton.Image = "http://www.roblox.com/asset/?id=18465207712"
 
     -- Connect button click event to the function
     ImageButton.MouseButton1Click:Connect(onButtonClick)
